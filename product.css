@@ -1,0 +1,33 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.container{
+	width:80%;
+	padding-left: 29%;
+	padding-top:3%;
+}
+.product_image{
+	width:500px;
+	height:500px;
+	position: fixed;
+	background-image: url('https://www.prophotostudio.net/wp-content/uploads/2021/01/a-picture-of-a-skincare-product-on-a-black-background.jpg');
+	background-size: cover;
+	
+}
+.overlay{
+	color:white;
+}
+.overlay h3{
+	margin:40px 28% 0% 36%; 
+	border: 1px solid white;
+	padding-left: 59px;
+	font-size:31px;
+}
+.overlay h3:hover{
+	background-color: black;
+}
+.overlay p{
+	padding:60% 10px 10px 30px;
+	
+}
